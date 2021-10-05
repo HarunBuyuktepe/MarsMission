@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/rLAIwmyrVaApDvaSF09wBH/miW/rYkl5G9sBDSHHhT/eg17Tps3xe/dqqeipa95ZnFrX9F8Az+9YQHwo8PmNw==",
+  "dgSpecHash": "JaKcBZD5O0cl/WJCAmisGIod6H/xpZQuuwQNQ8RAlXJXA77wpBodNEzFqM9Qbj+W9+HLTO0CBp7JL3euq5qh+g==",
   "success": true,
   "projectFilePath": "D:\\projects\\DotNetCoreService\\falan\\MarsMission\\MarsMission\\MarsMission.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\harun\\.nuget\\packages\\nunit\\2.6.1\\nunit.2.6.1.nupkg.sha512",
+    "C:\\Users\\harun\\.nuget\\packages\\nunit.framework.testcasestorage\\1.0.1\\nunit.framework.testcasestorage.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

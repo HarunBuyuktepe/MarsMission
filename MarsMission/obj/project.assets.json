@@ -1,12 +1,86 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.6.1": {},
-    ".NETFramework,Version=v4.6.1/win7-x86": {}
+    ".NETFramework,Version=v4.6.1": {
+      "NUnit/2.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "Nunit.Framework.TestCaseStorage/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "NUnit": "2.6.1"
+        },
+        "compile": {
+          "lib/nunit.framework.testcasestorage.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.testcasestorage.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win7-x86": {
+      "NUnit/2.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "Nunit.Framework.TestCaseStorage/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "NUnit": "2.6.1"
+        },
+        "compile": {
+          "lib/nunit.framework.testcasestorage.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.testcasestorage.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NUnit/2.6.1": {
+      "sha512": "byiyAOxTyUpc9sTasSxdDsGGutZ+jMRclWJgwq9GURSmCFvPuqD2wDTUiJGdH+pTCIloqZBPDGl9EkxGr8Id/Q==",
+      "type": "package",
+      "path": "nunit/2.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/nunit.framework.dll",
+        "lib/nunit.framework.xml",
+        "license.txt",
+        "nunit.2.6.1.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "Nunit.Framework.TestCaseStorage/1.0.1": {
+      "sha512": "cor8GU/Zw6k85aLuH8REMGDaTJ2lxhi0ocsbz4gv6w/UVblXjENx8FMJHy6fNJTfhPcvB6ZBjPueDy3ZJJMUpg==",
+      "type": "package",
+      "path": "nunit.framework.testcasestorage/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/nunit.framework.testcasestorage.dll",
+        "lib/nunit.framework.testcasestorage.pdb",
+        "nunit.framework.testcasestorage.1.0.1.nupkg.sha512",
+        "nunit.framework.testcasestorage.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.6.1": []
+    ".NETFramework,Version=v4.6.1": [
+      "Nunit.Framework.TestCaseStorage >= 1.0.1"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\harun\\.nuget\\packages\\": {},
@@ -53,6 +127,12 @@
     "frameworks": {
       "net461": {
         "targetAlias": "net461",
+        "dependencies": {
+          "Nunit.Framework.TestCaseStorage": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     },

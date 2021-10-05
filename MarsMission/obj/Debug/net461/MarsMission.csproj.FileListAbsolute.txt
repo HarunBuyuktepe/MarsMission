@@ -7,3 +7,6 @@ D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\Mar
 D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.csproj.CoreCompileInputs.cache
 D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.exe
 D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.pdb
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\bin\Debug\net461\nunit.framework.dll
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\bin\Debug\net461\nunit.framework.testcasestorage.dll
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.csproj.CopyComplete

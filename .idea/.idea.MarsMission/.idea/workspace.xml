@@ -4,11 +4,36 @@
     <projectFile>MarsMission/MarsMission.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0798d9d3-fd2a-4c54-9884-75d2cb44ac5d" name="Default Changelist" comment="" />
+    <list default="true" id="0798d9d3-fd2a-4c54-9884-75d2cb44ac5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MarsMission/Test/TestRovers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MarsMission/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MarsMission/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MarsMission/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MarsMission/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/MarsMission.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/MarsMission.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/Plateau.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/Plateau.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/Rover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/Rover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/bin/Debug/net461/MarsMission.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/bin/Debug/net461/MarsMission.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/bin/Debug/net461/MarsMission.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/bin/Debug/net461/MarsMission.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/Debug/net461/MarsMission.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/MarsMission.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/MarsMission.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/MarsMission.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/MarsMission.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsMission/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MarsMission/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8F9A7EA3-47A4-4FFD-AD6C-91B550598CCD/e5/7cc2d35a/Enum.cs" root0="SKIP_HIGHLIGHTING" />
@@ -17,26 +42,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MarsMission/Plateau.cs" />
-        <option value="$PROJECT_DIR$/MarsMission/Rover.cs" />
         <option value="$PROJECT_DIR$/MarsMission/MyText.txt" />
+        <option value="$PROJECT_DIR$/MarsMission/Rover.cs" />
+        <option value="$PROJECT_DIR$/MarsMission/Test/TestRovers.cs" />
+        <option value="$PROJECT_DIR$/MarsMission/Plateau.cs" />
         <option value="$PROJECT_DIR$/MarsMission/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1z5NcACRgDl6MrWd7UUafP7LXNo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34950384" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29988974" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.MarsMission">
     <configuration name="MarsMission" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -66,7 +93,7 @@
       <updated>1633434090839</updated>
       <workItem from="1633434123650" duration="301000" />
       <workItem from="1633435266895" duration="1958000" />
-      <workItem from="1633438282981" duration="7412000" />
+      <workItem from="1633438282981" duration="13791000" />
     </task>
     <servers />
   </component>
@@ -79,108 +106,97 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1633446598783">
+    <state x="832" y="418" key="Github.ShareDialog" timestamp="1633447740519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1633446598783">
+    <state x="832" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633447740519" />
+    <state x="724" y="227" key="Github.UntrackedFilesDialog" timestamp="1633447815992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1633446598783">
+    <state x="724" y="227" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633447815992" />
+    <state width="938" height="375" key="GridCell.Tab.0.bottom" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.0.center" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.0.left" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.0.right" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.1.bottom" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.1.center" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.1.left" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.1.right" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.2.bottom" timestamp="1633471734613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734613" />
+    <state width="938" height="375" key="GridCell.Tab.2.center" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.2.left" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.2.right" timestamp="1633471734612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734612" />
+    <state width="938" height="375" key="GridCell.Tab.3.bottom" timestamp="1633471734613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734613" />
+    <state width="938" height="375" key="GridCell.Tab.3.center" timestamp="1633471734613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1633446598784">
+    <state width="938" height="375" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734613" />
+    <state width="938" height="375" key="GridCell.Tab.3.left" timestamp="1633471734613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598784" />
-    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734613" />
+    <state width="938" height="375" key="GridCell.Tab.3.right" timestamp="1633471734613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1633446598783">
+    <state width="938" height="375" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734613" />
+    <state width="938" height="375" key="GridCell.Tab.4.bottom" timestamp="1633471734613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598783" />
-    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1633446598784">
+    <state width="938" height="375" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734613" />
+    <state width="938" height="375" key="GridCell.Tab.4.center" timestamp="1633471734613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633446598784" />
+    <state width="938" height="375" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734613" />
+    <state width="938" height="375" key="GridCell.Tab.4.left" timestamp="1633471734613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="375" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734613" />
+    <state width="938" height="375" key="GridCell.Tab.4.right" timestamp="1633471734613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="375" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633471734613" />
     <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1633435774046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1633435774046" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/MarsMission/Program.cs</url>
-          <line>130</line>
-          <properties documentPath="D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\Program.cs" initialLine="130">
-            <startOffsets>
-              <option value="4315" />
-            </startOffsets>
-            <endOffsets>
-              <option value="4329" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

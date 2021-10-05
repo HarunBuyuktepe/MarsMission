@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b89b748_002D5b1e_002D4b74_002Dba70_002D734621ff8971/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Move_Action_ShouldChangeXorYby1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit2x::B1E89BA6-59BB-4B12-91FB-3CFDBF84AB5B::.NETFramework,Version=v4.6.1::MarsMission.Test.TestRovers.Move_Action_ShouldChangeXorYby1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e1f016b6_002Ded24_002D4707_002Da0d3_002D035bcef30221/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Move_Action_ShouldChangeXorYby1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit2x::B1E89BA6-59BB-4B12-91FB-3CFDBF84AB5B::.NETFramework,Version=v4.6.1::MarsMission.Test.TestRovers.ChangeRoverDirection&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit2x::B1E89BA6-59BB-4B12-91FB-3CFDBF84AB5B::.NETFramework,Version=v4.6.1::MarsMission.Test.TestRovers.GetNewDirection&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

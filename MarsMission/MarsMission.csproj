@@ -13,4 +13,8 @@
       <Folder Include="bin\Debug\net461" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Nunit.Framework.TestCaseStorage" Version="1.0.1" />
+    </ItemGroup>
+
 </Project>

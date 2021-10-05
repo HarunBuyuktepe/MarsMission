@@ -24,6 +24,9 @@
         <e p="Plateau.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Rover.cs" t="Include" />
+        <e p="Test" t="Include">
+          <e p="TestRovers.cs" t="Include" />
+        </e>
       </e>
       <e p="MarsMission.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

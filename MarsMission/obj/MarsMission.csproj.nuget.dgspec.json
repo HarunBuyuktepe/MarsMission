@@ -44,6 +44,12 @@
       "frameworks": {
         "net461": {
           "targetAlias": "net461",
+          "dependencies": {
+            "Nunit.Framework.TestCaseStorage": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       },
