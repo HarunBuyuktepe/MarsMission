@@ -1,0 +1,9 @@
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\bin\Debug\net461\MarsMission.exe.config
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\bin\Debug\net461\MarsMission.exe
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\bin\Debug\net461\MarsMission.pdb
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.csprojAssemblyReference.cache
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.AssemblyInfoInputs.cache
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.AssemblyInfo.cs
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.csproj.CoreCompileInputs.cache
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.exe
+D:\projects\DotNetCoreService\falan\MarsMission\MarsMission\obj\Debug\net461\MarsMission.pdb
